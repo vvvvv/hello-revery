@@ -1,0 +1,6 @@
+(executable
+    (name main)
+    ; (package App)
+    ; (preprocess (pps brisk-reconciler.ppx))
+    (public_name hello_revery.exe))
+    ; (libraries bigarray Revery))
